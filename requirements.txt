@@ -1,0 +1,26 @@
+# Core data analysis & scientific computing
+numpy>=1.24,<2
+pandas>=2.0,<3
+scipy
+scikit-learn
+
+# Geospatial analysis & spatial statistics
+libpysal
+esda
+folium
+
+# Data collection & external APIs
+requests
+python-dotenv
+yfinance
+
+# Database persistence (PostgreSQL)
+sqlalchemy
+psycopg2-binary
+
+# Visualization
+matplotlib
+seaborn
+
+# Interactive environment
+jupyter
